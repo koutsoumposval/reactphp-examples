@@ -2,6 +2,7 @@
     "require": {
         "react/event-loop": "^0.4.3",
         "react/promise": "^2.5",
-        "react/dns": "^0.4.11"
+        "react/dns": "^0.4.11",
+        "react/stream": "^0.7.4"
     }
 }
