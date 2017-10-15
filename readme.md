@@ -25,7 +25,7 @@ Run PHP scripts
 ------------------
 Running scripts from root folder
 ```
-php timers/1-periodic.php
+php timers/periodic.php
 ```
 
 Credits
