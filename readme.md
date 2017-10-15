@@ -12,7 +12,6 @@ The topics of the examples will be:
 * Streams (pipe/in/out)
 * Sockets (server/client)
 * Child Process
-* Filesystem
 
 Install Dependencies
 ------------------
