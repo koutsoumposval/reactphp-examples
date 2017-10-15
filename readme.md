@@ -11,7 +11,7 @@ The topics of the examples will be:
 * Ticks (future/next)
 * Streams (pipe/in/out)
 * Sockets (server/client)
-* Child Process
+* Child Process (child/parent/uptime)
 
 Install Dependencies
 ------------------
