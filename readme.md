@@ -6,10 +6,10 @@ Topics
 ------------------
 The topics of the examples will be:
 
-* Timers
+* Timers (run/timer/sleep)
 * Promises
-* Ticks
-* Streams
+* Ticks (future/next)
+* Streams (pipe/in/out)
 * Sockets (server/client)
 * Child Process
 * Filesystem
