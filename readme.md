@@ -43,5 +43,7 @@ Credits
 -------------------
 Based on `Cees-Jan Kiewiet` <a href="https://blog.wyrihaximus.net/2015/01/reactphp-introduction/">ReactPHP tutorial</a>
 
+Fixed & Improved all broken code examples.
+
 
 
