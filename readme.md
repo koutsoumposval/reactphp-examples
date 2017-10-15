@@ -30,9 +30,9 @@ php timers/periodic.php
 
 Credits
 -------------------
-Based on `Cees-Jan Kiewiet` <a href="https://blog.wyrihaximus.net/2015/01/reactphp-introduction/">ReactPHP tutorial</a>
+Based on outdated `Cees-Jan Kiewiet` <a href="https://blog.wyrihaximus.net/2015/01/reactphp-introduction/">ReactPHP tutorial</a>
 
-Fixed & Improved all broken code examples.
+Fixed & improved legacy code examples.
 
 
 
