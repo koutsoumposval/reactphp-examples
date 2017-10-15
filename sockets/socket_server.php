@@ -2,8 +2,10 @@
 
 require 'vendor/autoload.php';
 
+$uri = '0.0.0.0:1337';
 $loop = React\EventLoop\Factory::create();
-$socket = new React\Socket\Server('0.0.0.0:1337', $loop);
+$socket = new React\Socket\Server($uri, $loop);
+echo 'Launched socket server at ' .  $uri . PHP_EOL;
 
 $connections = 0;
 
@@ -16,7 +18,7 @@ $socket->on('connection', function ($conn) use (&$connections) {
     $conn->on('data', function ($data) use ($conn, $current_connection) {
 
         // Echo the data into our terminal window
-        echo 'User ' . $current_connection . ': '. $data;
+        echo 'User ' . $current_connection . ': ' . $data;
     });
 });
 
