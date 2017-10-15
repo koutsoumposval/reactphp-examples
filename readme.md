@@ -10,8 +10,7 @@ The topics of the examples will be:
 * Promises
 * Ticks
 * Streams
-* Sockets
-* Socket clients
+* Sockets (server/client)
 * Child Process
 * Filesystem
 
